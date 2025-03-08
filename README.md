@@ -10,17 +10,17 @@ I'm a computer science student passionate about cybersecurity, AI, and programmi
 ### 🔍 Port Scanner
 A tool designed to scan open ports on a network, helping to identify vulnerabilities and enhance security measures.
 - **Technologies:** Java
-- **[View Project](https://github.com/yourusername/port-scanner)**
+- **[View Project](https://github.com/SebastienLeglise/github-portfolio/tree/main/scanner-de-ports-basique)**
 
 ### 🔐 Password Strength Checker
 An application that evaluates the strength of passwords, emphasizing the importance of robust security practices.
 - **Technologies:** Java
-- **[View Project](https://github.com/yourusername/password-strength-checker)**
+- **[View Project](https://github.com/SebastienLeglise/github-portfolio/tree/main/verificateur-de-force-de-mot-de-passe)**
 
 ### 🌐 DNS Info Collector
 A project that automatically gathers DNS data, providing insights into domain configurations and network structures.
 - **Technologies:** Java
-- **[View Project](https://github.com/yourusername/dns-info-collector)**
+- **[View Project](https://github.com/SebastienLeglise/github-portfolio/tree/main/collecteur-informations-dns)**
 
 
 
