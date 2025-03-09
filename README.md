@@ -24,38 +24,6 @@ A project that automatically gathers DNS data, providing insights into domain co
 
 
 
-
-/*TODO*/
-
-### ⚠️ XSS Vulnerability Detector
-A tool aimed at detecting XSS vulnerabilities in web applications to help secure digital infrastructures.
-- **Technologies:** [Your Technologies]
-- **[View Project](https://github.com/yourusername/xss-vulnerability-detector)**
-
-### 🔑 Password Generator
-A utility for generating strong, random passwords to enhance account security.
-- **Technologies:** [Your Technologies]
-- **[View Project](https://github.com/yourusername/password-generator)**
-
-### ⌨️ Keylogger
-A keylogger built for educational purposes, intended to raise awareness about security risks (strictly for legal and research uses).
-- **Technologies:** [Your Technologies]
-- **[View Project](https://github.com/yourusername/keylogger)**
-
-### 🔐 Password Manager
-A secure tool for storing and organizing your credentials, streamlining your digital life.
-- **Technologies:** [Your Technologies]
-- **[View Project](https://github.com/yourusername/password-manager)**
-
-### 👀 Spyware
-An exploratory spyware project, developed solely for educational research and security awareness (usage must remain within legal boundaries).
-- **Technologies:** [Your Technologies]
-- **[View Project](https://github.com/yourusername/spyware)**
-
-
-
-
-
 ## Why This Repository?
 
 I created this repository to document and share my personal projects, which are but a fragment of what I know and have done in cybersecurity, AI, and programming.I'm passionate about cyber and technology, and these projects showcase my drive to create and learn.
