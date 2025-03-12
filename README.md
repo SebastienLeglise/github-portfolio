@@ -26,7 +26,7 @@ A project that automatically gathers DNS data, providing insights into domain co
 
 ## Why This Repository?
 
-I created this repository to document and share my personal projects, which are but a fragment of what I know and have done in cybersecurity, AI, and programming.I'm passionate about cyber and technology, and these projects showcase my drive to create and learn.
+I created this repository to document and share my personal projects, which are but a fragment of what I know and have done in cybersecurity, AI, and programming.I'm passionate about technology, and these projects showcase my drive to create and learn.
 My goal is simple: to give you a glimpse into my expertise and perspective in these fields.
 
 ## Get in Touch
