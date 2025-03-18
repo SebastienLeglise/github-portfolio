@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XSS Test Page</title>
+</head>
+<body>
+    <h1>XSS Vulnerability Test Page</h1>
+    <form id="testForm" action="" method="GET">
+        <label for="input">Input:</label>
+        <input type="text" id="input" name="input">
+        <button type="submit">Submit</button>
+    </form>
+    <div id="output"></div>
+
+    <script>
+        // Display the input value in the output div
+        const urlParams = new URLSearchParams(window.location.search);
+        const input = urlParams.get('input');
+        if (input) {
+            document.getElementById('output').innerHTML = input;
+        }
+    </script>
+</body>
+</html>
