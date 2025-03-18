@@ -22,6 +22,10 @@ A project that automatically gathers DNS data, providing insights into domain co
 - **Technologies:** Java
 - **[View Project](https://github.com/SebastienLeglise/github-portfolio/tree/main/collecteur-informations-dns)**
 
+### 📊 Diabetes Prediction
+A project that uses machine learning models to predict diabetes, analyzing various features to determine the likelihood of the disease.
+- **Technologies:** Python, scikit-learn
+- **[View Project](https://github.com/SebastienLeglise/github-portfolio/tree/main/Pr%C3%A9diction-de-diab%C3%A8te)**
 
 
 ## Why This Repository?
